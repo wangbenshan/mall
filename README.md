@@ -1,4 +1,4 @@
-# vuecli3test
+# mall
 
 ## Project setup
 ```
